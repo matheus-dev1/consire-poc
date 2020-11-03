@@ -1,0 +1,80 @@
+header {
+    display: flex;
+    width: 100vw; /* -- Largura*/
+    height: 10vh;
+}
+
+main {
+    display: flex;
+    height: 100vh; /* -- Altura*/
+    width: 100vw; /* -- Largura*/
+}
+
+body{
+    background-color: #F9F0F0;
+}
+
+footer {
+    background-color: #B98EFF;
+    height: 20px;
+}
+
+.painel-texto {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* -- Altura*/
+    width: 50vw; /* -- Largura*/
+}
+
+.painel-imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* -- Altura*/
+    width: 50vw; /* -- Largura*/
+}
+
+.titulo {
+    width: 100%;
+    height: 20%;
+    background-color: #F9F0F0;
+    font-size: larger;
+}
+
+.texto {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 20%;
+    background-color: #F9F0F0;
+}
+
+nav {
+    background-color: #B98EFF;
+    position: fixed;
+    width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+
+}
+nav img {
+    vertical-align: middle;
+}
+
+nav a {
+    margin-left: 50px;
+    vertical-align: middle;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.ajuste {
+    margin-left: 75%;
+}
+
+.rodape {
+    color: white;
+    text-align: center;
+}
