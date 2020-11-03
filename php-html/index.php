@@ -10,8 +10,8 @@
 <body>
     <header>
         <nav>
-            <a href="#" ><img src="../img/logo.svg" width="100" height="70" alt="Icone"></a>
-            <a class="ajuste" href="#Cadastre-se">Cadastre-se</a>
+            <a href="index.php" ><img src="../img/logo.svg" width="100" height="70" alt="Icone"></a>
+            <a class="ajuste" href="cadastro.php">Cadastre-se</a>
             <a href="#Login">Login</a>
         </nav>
     </header>
