@@ -3,26 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta lang="pt-br">
-    <title>Tela Inicial</title>
+    <title>BebendoBem | Tela Inicial</title>
     <link rel="stylesheet" href="../css/global.css">
     <link rel="stylesheet" href="../css/index.css">
+    
 </head>
 <body>
     <header>
         <nav>
             <a href="index.php" ><img src="../img/logo.svg" width="100" height="70" alt="Icone"></a>
             <a class="ajuste" href="cadastro.php">Cadastre-se</a>
-            <a href="#Login">Login</a>
+            <a href="login.php">Login</a>
         </nav>
     </header>
 
     <main>
         <section class="painel-texto">
             <div class="titulo">
-                <h1>&nbsp;Este e um tiulo de exemplo</h1>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp; ● Topico 1</p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp; ● Topico 2</p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp; ● Topico 3</p>
+                <h1 style="font-size: 100px">&nbsp;BebendoBem</h1>
+                <p style="font-size: 25px">&nbsp;&nbsp;&nbsp;&nbsp; ● Aqui você vai tomar um gole de consciência.</p>
+
             </div>
             <div class="texto">
                 <img src="../img/img1.svg" alt="img1" width="100" height="70" >

@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    width: 100vw; /* -- Largura*/
+    height: 10vh;
+}
+
+nav {
+    background-color: #B98EFF;
+    position: fixed;
+    width: 100vw;
+    vertical-align: middle;
+    display: inline-block;
+
+}
+nav img {
+    vertical-align: middle;
+}
+
+nav a {
+    margin-left: 50px;
+    vertical-align: middle;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.ajuste_home {
+    margin-left: 70%;
+}
